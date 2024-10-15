@@ -12,7 +12,7 @@
               6. print 'invalid deposit. try again'
               7. ask user how much they want to deposit
         5. set answer equal to deposit variable
-        5. add deposit variable to initial balance and set it as updated balance variable
+        5. add deposit variable to balance and set it as updated balance variable
         6. output updated balance
     4. otherwise if input is w
        5. ask user how much they would like to withdraw
@@ -20,7 +20,7 @@
           7. print 'invalid withdrawal. try again'
           8. ask user how much they would like to withdraw
        7. set answer equal to withdrawal variable 
-       8. subtract answer from initial balance and set it as updated balance variable
+       8. subtract answer from  balance and set it as updated balance variable
        9. output updated balance
     5. otherwise if input is v
        6. print balance
