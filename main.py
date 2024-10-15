@@ -2,10 +2,10 @@
 # Course:  CS151, Professor Zee
 # Due Date: 10/16/2024
 # Lab Assignment: 5
-# Problem Statement:
-# Data In:
-# Data Out:
-# Credits:
+# Problem Statement: This code allows a user to select from a menu of ATM options
+# Data In: deposit, withdrawal, view, exit, and amounts to deposit/withdraw
+# Data Out: total balance or negative balance warning
+# Credits: this code is from the example given in the read me file
 
 
 # Create variables answer and SENTINEL for later use
